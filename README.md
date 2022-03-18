@@ -13,4 +13,4 @@
 Адаптивность под мобильные устройства
 
 
-https://julia-lm.github.io/TheWicher/
+https://julia-lm.github.io/TheWitcher/
