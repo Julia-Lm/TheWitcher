@@ -1,4 +1,4 @@
-# TheWicher
+# TheWitcher
 
 Используемые технологии:
 
